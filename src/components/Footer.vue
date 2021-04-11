@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>Copyright &copy; 2021</p>
+    <p>INFO 1601 Group Project (2021)</p>
     <router-link to="/about">About</router-link> <!-- this is to not refresh the page but load the page without refreshing -->
   </footer>
 </template>
