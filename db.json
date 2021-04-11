@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Example Task",
+      "day": "enter a date, double tap to turn reminder on or off",
+      "reminder": true
+    }
+  ]
+}
